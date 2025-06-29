@@ -1,0 +1,19 @@
+(My Rumus QA Manual)
+
+SC-001-Navigasi = Mengecek Navigasi(Home,About me dll)
+	TC-001-Nama Navigasi
+
+SC-002-Elemen = Mengecek elemen
+	TC-002-Logo
+	TC-003-Text
+	TC-004-Foto
+	TC-005-Vido/Sound
+	TC-006-Slider
+	TC-007-Search
+	TC-008-Button
+		TC-009-Konten_Button (mengecek bagian dalam button)
+	 
+SC-003-Footer = Mengecek isi Footer
+	TC-010-Footer
+
+
