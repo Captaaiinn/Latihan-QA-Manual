@@ -1,0 +1,13 @@
+[
+    {
+        "username": "standard_user",
+        "password": "secret_sauce"
+    },
+
+     {
+        "first_name": "agung",
+        "second_name": "fajar",
+        "code_post": "12345"
+    }
+
+]
